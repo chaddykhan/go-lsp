@@ -1,4 +1,4 @@
-module go.bug.st/lsp
+module chaddykhan/go-lsp
 
 go 1.22
 
